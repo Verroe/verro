@@ -1,2 +1,2 @@
 # verro
-This repository for practice from tutorial
+This is a repository for practice
